@@ -1,35 +1,22 @@
-# 👋 Welcome to My GitHub – @Bear1448  
-*Mission Control for Code, Curiosity, and Veteran-Driven Problem-Solving!*
+## Jacob Perry
 
-## 🚀 Who Am I?  
-I’m Jacob Perry (He/Him), a former USAF Aerospace Ground Equipment Mechanic turned aspiring Software Engineer. I’ve swapped wrenches for code, but my military-honed problem-solving skills—think "fixing mission-critical gear under pressure"—still fuel me. Currently, I’m powering through a Bachelor’s in Computer Science (Applied) at OSU, with a parallel mission in cybersecurity certifications.  
+I'm a computer science student at Oregon State University, finishing my degree with a minor in cybersecurity.
 
-I’m obsessed with:  
-- 💻 Software development (especially embedded systems, controls, and full-stack solutions)  
-- 🗃️ Databases that run like a precision-tuned jet engine  
-- 🔒 Cybersecurity—securing digital frontiers like I secured airfields  
+Before software I was an Aerospace Ground Equipment mechanic in the U.S. Air Force, keeping the generators, hydraulic carts, and air units that support aircraft running. That's still how I approach code: figure out how the system actually works, find the fault, fix it, and leave it documented for the next person.
 
-## 🎯 What I’m Up To  
-- Transitioning my USAF expertise into software engineering, using my hands-on problem-solving to tackle complex coding challenges.  
-- Always learning—whether it’s debugging a stubborn algorithm or exploring new tech horizons. I thrive on curiosity!  
-- Targeting remote software development roles at Amazon, leveraging my veteran background and passion for impactful tech solutions.  
+I've also interned in controls and automation, which is where I got interested in the gap between PLCs and modern software tooling.
 
-## 💡 Why Collaborate With Me?  
-Think of me as your tech ops specialist:  
-- I approach bugs like I approached broken equipment—analyze, adapt, and eliminate with military precision.  
-- I bring discipline, resilience, and a "mission-first" mindset from my USAF days, perfect for Amazon’s high-impact environment.  
-- I’m remote-ready, online frequently, and eager to dive into software development projects that align with Amazon’s veteran initiatives!  
+### What I work on
 
-## 🛠️ Let’s Connect  
-- Reach out on [LinkedIn](https://www.linkedin.com/in/jacob-perry-66889437) to discuss remote Amazon veteran opportunities, projects, or tech chats.  
-- Drop an issue here or ping me—I’m always up for a good problem-solving mission!  
+- **Industrial / controls software:** Git workflows for Omron Sysmac PLC projects ([Sysmac SyncAlert](https://github.com/Bear1448/Sysmac-SyncAlert-Prototype))
+- **Backend services and APIs:** Python/Flask microservices with tests and clear contracts ([Daily Spending Limit Calculator](https://github.com/Bear1448/daily-spending-limit-calculator))
+- **Local AI tooling:** a personal assistant that runs on local models, where every action needs my approval (in progress)
+- **Senior capstone:** an autonomous driving simulator in Unreal Engine 5
 
-## ⚡ Fun Fact  
-Did you know I can troubleshoot a software glitch *and* a hydraulic pump failure? Multitasking is in my DNA!  
+### Tools I use
 
+Python · JavaScript · PowerShell · Flask · Node.js · React · Git / GitHub Actions · Unreal Engine 5 · Omron Sysmac Studio
 
+### Contact
 
-<!---
-Bear1448/Bear1448 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[LinkedIn](https://www.linkedin.com/in/jacob-perry-66889437)
